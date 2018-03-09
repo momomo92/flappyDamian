@@ -1,0 +1,11 @@
+# Idea
+.idea/
+.project
+
+# Git
+.git/
+
+# Other
+._*
+.~lock.*
+.buildpath
